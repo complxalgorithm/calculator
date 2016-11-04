@@ -47,7 +47,23 @@ span:active {
 }
 
 #button-wrapper{
-  margin-left:auto;
-  margin-right:auto;
+  margin-left: auto;
+  margin-right: auto;
   max-width: 600px;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: orange;
+}
+
+.foot {
+  position: fixed;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  bottom: 0;
+  right: 0;
 }
